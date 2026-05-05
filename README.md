@@ -11,7 +11,7 @@ Install AutoHotKey version 2, then double click.
 ## Why not F11?
 
 | Feature | F11 | This script |
-|---------|-----|-------------|
+|---------|:---:|:-----------:|
 | Keep browser tabs |❌|✅|
 | Works on any app |❌|✅|
 | Always works as expected|❌|✅|
