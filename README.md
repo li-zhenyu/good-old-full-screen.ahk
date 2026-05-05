@@ -12,6 +12,6 @@ Install AutoHotKey version 2, then double click.
 
 | Feature | F11 | This script |
 |---------|-----|-------------|
-| Hide browser tabs |✅|❌|
+| Keep browser tabs |❌|✅|
 | Works on any app |❌|✅|
 | Always works as expected|❌|✅|
