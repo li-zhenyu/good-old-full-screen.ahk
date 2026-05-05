@@ -6,4 +6,4 @@ Don't use those bullshit `F11` scripts any longer. Try my one.
 
 Install AutoHotKey version 2, then double click.
 
-`Win`+`F11` to toggle fullscreen or not.
+`Win`+`F` to toggle fullscreen or not.
