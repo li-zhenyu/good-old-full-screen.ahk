@@ -7,3 +7,11 @@ Don't use those bullshit `F11` scripts any longer. Try my one.
 Install AutoHotKey version 2, then double click.
 
 `Win`+`F` to toggle fullscreen or not.
+
+## Why not F11?
+
+| Feature | F11 | This script |
+|---------|-----|-------------|
+| Hide browser tabs |✅|❌|
+| Works on any app |❌|✅|
+| Always works as expected|❌|✅|
